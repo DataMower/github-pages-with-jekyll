@@ -1,3 +1,3 @@
-# Welcome to my blog
+# This is my python blog
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. I plan to publish my python projects.
