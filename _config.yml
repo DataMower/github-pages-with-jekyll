@@ -4,6 +4,7 @@ email: andreamathis@gmx.ch
 description: > # this means to ignore newlines until "baseurl:"
   On this blog I want to show my programming skills in python. My goal is to collaborate with other python programmers.
   Feedback is appreciated!
+theme: minima
 
 # social links
 twitter_username: DataMower
